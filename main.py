@@ -4,3 +4,4 @@ def modifySalaryColumn(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 a = 0
+b = 1
